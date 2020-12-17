@@ -129,6 +129,7 @@ const i18n = createI18n({
       compatibilityDescription: "Entrez le code de quelqu'un d'autre pour obtenir votre rapport de compatibilité",
       compatibilityPopupTitle: "Profitez de votre rapport de compatibilité",
       yourCode: "Votre code",
+      viewReportButton: "VOIR LE RAPPORT DE COMPATIBILITÉ",
       sameCode: "Please enter someone else's code",
       compatibilityError: "Rapport de compatibilité déjà envoyé",
       passwordEmailSent: "Nous vous avons envoyé un e-mail pour définir un mot de passe",
